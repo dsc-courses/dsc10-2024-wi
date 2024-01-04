@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DSC 10
-description: DSC 10, Fall 2023 at UC San Diego
+description: DSC 10, Winter 2024 at UC San Diego
 tagline: Principles of Data Science
 baseurl: '/' # the subpath of your site, e.g. /blog
 url: 'https://dsc10.com' # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,9 +29,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   🙋 Ed:
-    - 'https://edstem.org/us/courses/48101/discussion/'
+    - 'https://edstem.org/us/courses/51231/discussion/'
   💯 Gradescope:
-    - 'https://www.gradescope.com/courses/633671'
+    - 'https://www.gradescope.com/courses/692988'
   📌 Reference:
     - 'https://drive.google.com/file/d/1ky0Np67HS2O4LO913P-ing97SJG0j27n/view?usp=sharing'
   💪 Practice:
@@ -56,13 +56,13 @@ defaults:
       type: staffers
     values:
       layout: staffer
-      subpath: '/assets/staff-images/fa23'
+      subpath: '/assets/staff-images/wi24'
   - scope:
       path: ''
       type: staffersnobio
     values:
       layout: staffer_no_bio
-      subpath: '/assets/staff-images/fa23'
+      subpath: '/assets/staff-images/wi24'
   - scope:
       path: ''
       type: modules
