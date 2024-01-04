@@ -8,7 +8,7 @@ photo: assets/staff-images/fa23/janine.jpg
 lecture: MWF 9-9:50AM (B), 10-10:50AM (A), <a href="https://map.concept3d.com/?id=1005#!m/237200">Mandeville B-210</a>
 description: PhD, Mathematics, UCSD
 hometown: Wayne, NJ
-askabout: Math, baking, camping, games, and puzzles
-foodemoji: 🥖
+askabout: Math, baking, camping, games, puzzles
+foodemoji: 🥐
 food: Wayfarer Bread & Pastry, Bronx Pizza, Buona Forchetta, Taco Stand
 ---

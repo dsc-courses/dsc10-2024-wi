@@ -2,11 +2,11 @@
 name: Aaron Rasin
 role: Tutor
 pronouns: he/him
-email: arasin@ucsd.edu
-photo: assets/staff-images/fa23/rasin-aaron.jpg
+email: 
+photo: ../assets/staff-images/wi24/rasin-aaron.jpg
 description: 4th year, Linguistics, Seventh
 hometown: Newton, MA
-askabout: Linguistics at UCSD and the La Jolla Symphony
+askabout: Linguistics at UCSD, the La Jolla Symphony
 foodemoji: 🌮
-food: Don Carlos Taco Shop, Main Chick
+food: Tacos El Gordo, Puesto, Main Chick
 ---
