@@ -3,8 +3,8 @@ name: Jack Determan
 role: Tutor
 pronouns: he/him
 email: 
-photo: ../assets/staff-images/wi24/determan-jack.jpg
-description: 2nd year, Math-CS and Data Science Minor, ERC
+photo: assets/staff-images/wi24/determan-jack.jpg
+description: 2nd year, Math-CS, Data Science Minor, ERC
 hometown: North Andover, MA
 askabout: Manim Code, soccer, running, chess, reading, Professional Certification in Web Development from Harvard
 foodemoji: 🍍
