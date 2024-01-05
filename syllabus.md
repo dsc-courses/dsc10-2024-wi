@@ -401,8 +401,8 @@ To summarize all of the events and deadlines, refer to this general weekly
 schedule. Please refer to the homepage of this website for the most up-to-date schedule of deadlines.
 
 | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
-| | Lecture| | Lecture and Discussion (with Quizzes) | | Lecture | |
-| | | <b style="color:red">Lab due (some weeks)</b> | | <b style="color:red">Homework due</b> | | <b style="color:red">Lab due (some weeks)</b> |
+| | Lecture| | Lecture and Discussion (with <b style="color:red">Quizzes</b>) | | Lecture and Extra Practice Session | |
+| | | <b style="color:red">Lab due</b> (some weeks) | | <b style="color:red">Homework due</b> | | <b style="color:red">Lab due</b> (some weeks) |
 
 ---
 
