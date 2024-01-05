@@ -46,35 +46,49 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 
 ### Lecture
 
-There are four lecture sections:
-- Section A (Janine): MWF 10-10:50AM in [Mandeville B-210](https://map.concept3d.com/?id=1005#!m/237200)
-- Section B (Janine): MWF 9-9:50AM in [Mandeville B-210](https://map.concept3d.com/?id=1005#!m/237200)
-- Section C (Suraj): MWF 1-1:50PM in [Mandeville B-210](https://map.concept3d.com/?id=1005#!m/237200)
-- Section D (Rod): MWF 8-8:50AM in [Peterson Hall 104](https://map.concept3d.com/?id=1005#!m/237174)
+There are three lecture sections:
+- Section A: MWF 9-9:50AM in [Mandeville B-202](https://map.concept3d.com/?id=1005#!m/237200)
+- Section B: MWF 10-10:50AM in [Mandeville B-202](https://map.concept3d.com/?id=1005#!m/237200)
+- Section C: MWF 11-11:50AM in [Mandeville B-202](https://map.concept3d.com/?id=1005#!m/237200)
 
 Lecture is meant to introduce you to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
 You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the Midterm Exam, you must attend the lecture section in which you are officially enrolled.
 
-**Lectures will be podcasted (UCSD's term for "recorded").** Podcast recordings will be available online at [podcast.ucsd.edu](https://podcast.ucsd.edu) within a few hours.
+**Lectures will be podcasted** (UCSD's term for "recorded"). Podcast recordings will be available online at [podcast.ucsd.edu](https://podcast.ucsd.edu) within a few hours.
 
 <!-- We will also link recordings directly on the course homepage; you can access these by clicking the 🎥 emoji. -->
 
-### Discussion
+### Discussion 
 
 There are three discussion sections:
-- Section A: Wednesday 3-3:50PM in [Pepper Canyon Hall 109](https://map.concept3d.com/?id=1005#!m/246320)
-- Section B: Wednesday 4-4:50PM in [Pepper Canyon Hall 109](https://map.concept3d.com/?id=1005#!m/246320)
-- Section C: Wednesday 5-5:50PM in [Mandeville B-210](https://map.concept3d.com/?id=1005#!m/237200)
+- Section A: Monday 5-5:50PM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
+- Section B: Monday 6-6:50PM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
+- Section C: Monday 7-7:50PM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
 
-You must attend the discussion section that corresponds to the lecture section you are enrolled in. Students in Section D will be assigned to one of the other sections. On the [Welcome Survey](https://forms.gle/X2kMh9HAZ42b3ySZ9), you will be able to let us know of any conflicts with your assigned discussion section, and we will do our best to reassign you to a different section.
+Discussion section starts on the first day of class with some useful instruction and tips for using Jupyter notebooks and Datahub, the programming tools we'll be using in this course. It should be helpful to get you set up and comfortable with the technology you'll be using all quarter.
+
+Most other discussion sections will not be instructive, but instead we will use this time to administer quizzes. See the [Quizzes](#quizzes) section of the syllabus for more information.
+
+You must attend the discussion section that corresponds to the lecture section you are enrolled in. On the [Welcome Survey](https://forms.gle/vw5RcYjjhiDAp5GD6), you will be able to let us know of any conflicts with your assigned discussion section, and we will do our best to reassign you to a different section.
  
-{: .warning }
-**In the Schedule of Classes, this course is listed as having both a discussion section (DI) and a lab section (LA), but we will only have one weekly meeting outside of lecture, which we’ll refer to as a discussion section, scheduled at the time listed above. You should ignore what you see as DI or LA on WebReg and just use the schedule above instead.**
+<!-- {: .warning }
+**In the Schedule of Classes, this course is listed as having both a discussion section (DI) and a lab section (LA), but we will only have one weekly meeting outside of lecture, which we’ll refer to as a discussion section, scheduled at the time listed above. You should ignore what you see as DI or LA on WebReg and just use the schedule above instead.** -->
 
-Discussion section is focused on exam preparation. Students will work through problems from past DSC 10 exams and go over solutions with course staff. Attending discussion section and working through practice problems in discussion gives you direct experience with the types of questions you will see on the exams. We will also administer four quizzes throughout the quarter during discussion section, so it is important that you be able to attend in-person at your assigned time.
+Because most discussion sections will be used for quizzes, **discussion sections will not be podcasted.**
 
-**Discussions will not be podcasted.** The purpose of discussion is to give you hands-on problem-solving experience, so you really need to attend and participate to reap the benefits of discussion section.
+### Extra Practice Sessions 
+
+There will be three extra practice sessions, held during the scheduled "Laboratory" sections:
+- Section A: Friday 5-5:50PM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
+- Section B: Friday 6-6:50PM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
+- Section C: Friday 7-7:50PM in [Solis 104](https://map.concept3d.com/?id=1005#!m/237105)
+
+The extra practice sessions will be focused on quiz and exam preparation. Students will work through problems from past DSC 10 quizzes and exams and be able to get help from course staff. Attending the extra practice sessions and working through practice problems gives you direct experience with the types of questions you will see on quizzes and exams. 
+
+You can attend any extra practice session, but if space fills up, priority will be given to students officially enrolled in that section.
+
+**Extra practice sessions will not be podcasted.** The purpose of these sessions is to give you hands-on problem-solving experience, so you really need to attend and participate to reap the benefits.
 
 ### Office Hours
 
@@ -118,17 +132,17 @@ Your primary motivation when interacting with course staff should be
 First and foremost, you will need access to a computer (or tablet with a
 keyboard) and a stable internet connection to participate in this course. UCSD
 has a [Laptop Lending Program](https://basicneeds.ucsd.edu/forms/lyft-program/index.html) which may be helpful, but you should also contact
-us if you have any concerns about access to technology. Most students bring a computer to lecture, and a computer or tablet will be necessary to attend discussion section.
+us if you have any concerns about access to technology. Most students bring a computer to lecture, and a computer or tablet will be necessary to attend the extra practice sessions.
 
 All course content will be linked from this website, but there are a few
 additional platforms that you'll need to access:
 
 - **Ed:** We'll be using Ed as our course message and
   discussion board. More details are in the [Communication](#-communication)
-  section below. If you didn't already get an invitation, [join here](https://edstem.org/us/join/2j8EjH).
+  section below. If you didn't already get an invitation, [join here](https://edstem.org/us/join/SjN4vB).
 
 - **Gradescope:** You'll submit all assignments and exams to
-  [Gradescope](https://www.gradescope.com/courses/633671). This is where all of
+  [Gradescope](https://www.gradescope.com/courses/692988). This is where all of
   your grades will live as well. If you didn’t already get an invitation to our Gradescope course, reach out to the instructional staff on Ed.
 
 - **DataHub:** Assignments in this course will involve programming in Python.
@@ -144,11 +158,11 @@ them, too (though they're all linked at the top of this website).
 
 ### Welcome Survey
 
-Please fill out this short [Welcome Survey](https://forms.gle/X2kMh9HAZ42b3ySZ9) at the start of the quarter. This is required of all students.
+Please fill out this short [Welcome Survey](https://forms.gle/vw5RcYjjhiDAp5GD6) at the start of the quarter. This is required of all students.
 
 ### Pretest
 
-DSC 10’s only prerequisite is high school algebra. In order to gauge your preparedness for the type of math you’ll see in this class, you should work through the practice problems on this [pretest](https://practice.dsc10.com/pretest/). You will not submit this pretest, and it will not be graded, but it will help you identify any gaps in your background knowledge and it will teach you some useful test-taking skills. We'll release solutions to the pretest on Monday of Week 1.
+DSC 10’s only prerequisite is high school algebra. In order to gauge your preparedness for the type of math you’ll see in this class, you should work through the practice problems on this [pretest](https://practice.dsc10.com/pretest/). You will not submit this pretest, and it will not be graded, but it will help you identify any gaps in your background knowledge and it will teach you some useful test-taking skills. We'll release solutions to the pretest on Wednesday of Week 1.
 
 ---
 
@@ -199,7 +213,7 @@ assignment and all the tests pass, you'll get a perfect score!
 To submit a lab, follow the instructions in the assignment to upload your
 notebook to Gradescope, which will run automated tests and assign your score.
 You should verify that all of your test cases pass on Gradescope **before the
-deadline**. Lab assignments will _usually_ be due on **Thursdays at 11:59PM**, 
+deadline**. Lab assignments will _usually_ be due on **Saturdays or Tuesdays at 11:59PM**, 
 though you should refer to the homepage of this website for the most up-to-date schedule. We will
 release lab assignments roughly a week before they're due. **Your lowest lab score
 is dropped from your grade calculation at the end of the quarter.**
@@ -234,7 +248,7 @@ submission, this only means that you've passed the formatting tests, not the
 hidden correctness tests that determine your score.
 
 To submit a homework, follow the instructions in the assignment to upload your
-notebook to Gradescope. Homeworks will _usually_ be due on **Saturdays at
+notebook to Gradescope. Homeworks will _usually_ be due on **Thursdays at
 11:59PM**, though you should refer to the homepage of this website for the most up-to-date schedule. We will release homework assignments roughly a week before they're
 due. **Your lowest homework score
 is dropped from your grade calculation at the end of the quarter.**
@@ -259,7 +273,7 @@ your score on the project after the deadline, once all projects are submitted
 and the hidden correctness tests have been run.
 
 **Unlike labs and homeworks, you may work with a partner on projects.** Your
-partner can be anyone else in either section of the course. If you choose to
+partner can be anyone else in any section of the course. If you choose to
 work with a partner, start by reading these [project partner guidelines](../project-partners).
 If working with a partner, only one of you should submit the assignment, and you'll be able to tag your partner in your Gradescope submission.
 
@@ -299,8 +313,7 @@ like the internet (or the DataHub server) going down at 11:58PM just as you go
 to submit your homework. Slip days are meant to be used in exceptional
 circumstances, so you probably should not need to use all six, but if you have
 something going on in your life that is impeding your ability to do your
-classwork on time, please reach out to us as soon as possible so we can work
-something out. 
+classwork on time, please reach out to us **before** using up all your slip days.
 
 **Slip days are applied automatically at the end of the quarter, and you don't
 need to ask in order to use one.** It's your responsibility to keep track of
@@ -351,39 +364,45 @@ It is your responsibility to ensure that all assignments are submitted correctly
 
 ## 📝 Assessments
 
-We will assess your knowledge of course material frequently through quizzes and exams. Quizzes and exams will be administered on paper, without the use of computers or calculators. You'll have access to a large collection of [Practice Problems](https://practice.dsc10.com/) to help you prepare. You'll see some of these problems in discussion section and during in-class exam reviews, but the more you practice, the better prepared you'll be for the assessments.
+We will assess your knowledge of course material frequently through quizzes and exams. Quizzes and exams will be administered on paper, without the use of computers or calculators. You'll have access to a large collection of [Practice Problems](https://practice.dsc10.com/) to help you prepare. You'll see some of these problems in extra practice sessions and during in-class exam reviews, but the more you practice, the better prepared you'll be for the assessments.
 
 ### Exams
 
 This class has one Midterm Exam and one Final Exam:
-- Midterm Exam: Monday, October 30, **during your registered lecture slot**
-- Final Exam: Saturday, December 9, 7-10PM, location TBD
+- Midterm Exam: Monday, February 12, **during your registered lecture slot**
+- Final Exam: Saturday, March 9, 7-10PM, location TBD
 
 Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **in-person and on-paper**.
 
-If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://forms.gle/X2kMh9HAZ42b3ySZ9) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
+If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://forms.gle/vw5RcYjjhiDAp5GD6) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
 
 ### Quizzes
 
-There are four quizzes throughout the quarter, administered in discussion section:
+Quizzes are a relatively new component of the course, introduced last quarter, to help students get more practice solving problems on-paper without a computer in front of them, as they'll need to do on exams. Quiz questions are meant to be more straightforward to than exam questions, but they will help you build the skills you need to perform well on exams, as well as help you identify any areas you need more practice in before the exam. 
 
-- Quiz 1: Wednesday, October 11
-- Quiz 2: Wednesday, October 25
-- Quiz 3: Wednesday, November 15
-- Quiz 4: Wednesday, November 29
+There are six quizzes throughout the quarter, administered in discussion section:
 
-You must attend **your assigned discussion section**; see the [Discussion](#discussion) section of the syllabus for details. **Your lowest quiz score is dropped from your grade calculation at the end of the quarter.**
+- Quiz 1: Monday, January 22
+- Quiz 2: Monday, January 29
+- Quiz 3: Monday, February 5
+- Quiz 4: Monday, February 26
+- Quiz 5: Monday, March 4
+- Quiz 6: Monday, March 11
+
+We will count only your four highest quiz scores towards your grade. In other words, we will drop your two lowest quiz scores. Quizzes are designed to give you low-stakes opportunities to practice solving problems on paper, with room for failure. You don't need to do well on every quiz to do well in the course.
+
+You must attend **your assigned discussion section** to take quizzes; see the [Discussion](#discussion) section of the syllabus for details. We will not offer makeup quizzes. If you are sick, traveling, or otherwise need to miss a quiz, you have some flexibility because two quiz scores are dropped.
 
 ---
 
 ## 📆 Weekly Schedule
 
 To summarize all of the events and deadlines, refer to this general weekly
-schedule. **Note that there are significant changes to this schedule towards the end of the quarter due to holidays.** Please refer to the homepage of this website for the most up-to-date schedule of deadlines.
+schedule. Please refer to the homepage of this website for the most up-to-date schedule of deadlines.
 
 | **Sunday** | **Monday** | **Tuesday** | **Wednesday** | **Thursday** | **Friday** | **Saturday** |
 | | Lecture| | Lecture and Discussion (with Quizzes) | | Lecture | |
-| | | | | <b style="color:red">Lab due</b> | | <b style="color:red">Homework due</b> |
+| | | <b style="color:red">Lab due (some weeks)</b> | | <b style="color:red">Homework due</b> | | <b style="color:red">Lab due (some weeks)</b> |
 
 ---
 
@@ -395,11 +414,11 @@ how grades will be computed:
 | **Component** | **Weight** | **Notes** |
 | Lab Assignments | 10% | drop lowest score |
 | Homework Assignments | 25% | 5% each, drop lowest score |
-| Quizzes | 15% | 5% each, drop lowest score |
+| Quizzes | 16% | 4% each, drop two lowest scores |
 | Midterm Project | 10% | |
 | Midterm Exam | 10% | |
 | Final Project | 10% | |
-| Final Exam | 20% | |
+| Final Exam | 19% | |
 
 Note that all assignments in each category will be worth the same amount,
 regardless of the number of points they are graded out of.
@@ -408,7 +427,7 @@ regardless of the number of points they are graded out of.
 
 If you'd like to request a regrade on any assignment, you must do so within one
 week of the assignment being graded. If you think there is a problem with the
-autograder,  please fill out the [Autograder Regrade Request Form](https://forms.gle/ZsLgWyDBnMP8tHsN9). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
+autograder,  please fill out the [Autograder Regrade Request Form](https://forms.gle/unNJmnGWEbHtpyLc8). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
 
 ### Letter Grades and Incompletes
 
