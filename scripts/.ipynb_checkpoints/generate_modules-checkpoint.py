@@ -140,7 +140,8 @@ def write_week(i, dest="../_modules", write=True):
             "{combined}"
                 """
             if True:
-                outstr += f""""<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> example </span></i></small>":"""
+                outstr += f"""
+          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> example </span></i></small>":"""
                 
         else:
             if lab:
