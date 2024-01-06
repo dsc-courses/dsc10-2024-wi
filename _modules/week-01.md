@@ -27,6 +27,5 @@
       - date: 2024-1-13
         events:
           
-          "**Lab 0**{: .label .label-lab } **Expressions and Data Types**":
-          "**QUIZ 1**{: .label .label-quiz } **Quiz 1 covers Lectures 1-4**":
+          "**LAB 0**{: .label .label-lab } **Expressions and Data Types**":
 ---
