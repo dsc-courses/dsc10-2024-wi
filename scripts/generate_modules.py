@@ -24,6 +24,7 @@ def fill_missing_vals(df):
     df["Readings"] = df["Readings"].fillna("").astype(str)
     df["Links"] = df["Links"].fillna("").astype(str)
     df["Discussion"] = df["Discussion"].fillna("").astype(str)
+    df["Quiz"] = df["Quiz"].fillna("").astype(str)
     return df
 
 
@@ -113,6 +114,7 @@ def write_week(i, dest="../_modules", write=True):
         readings = day.Readings
         links = day.Links
         discussion = day.Discussion
+        quiz = day.Quiz
 
         date_formatted = date_conv(date)
 
@@ -137,17 +139,15 @@ def write_week(i, dest="../_modules", write=True):
                 outstr += f"""
             "{combined}"
                 """
-
-        # Exam or lab
         else:
             if lab:
                 lab_num, lab_name = lab.split(". ")
                 outstr += f"""
-          "**Lab {lab_num}**{{: .label .label-lab }} **{lab_name.strip()}**":"""
+          "**LAB {lab_num}**{{: .label .label-lab }} **{lab_name.strip()}**":"""
 
             elif "Exam" in lecture:
                 outstr += f"""
-          "**Exam**{{: .label .label-exam }} **{lecture.strip()}**":"""
+          "**EXAM**{{: .label .label-exam }} **{lecture.strip()}**":"""
             elif lecture:  # we reach this when we have holidays, like July 4
                 outstr += f"""
           "{lecture}":"""
@@ -164,6 +164,11 @@ def write_week(i, dest="../_modules", write=True):
         if discussion:
             outstr += f"""
           "**DISC**{{: .label .label-disc }} {discussion.strip()}":"""
+            
+        if quiz:
+            quiz_num, quiz_description = quiz.split(". ", 1)
+            outstr += f"""
+          "**QUIZ {quiz_num}**{{: .label .label-quiz }} **{quiz_description.strip()}**":"""
 
     outstr += "\n---"
 

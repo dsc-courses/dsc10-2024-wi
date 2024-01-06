@@ -7,7 +7,7 @@
           "**LEC 1**{: .label .label-lecture } Introduction":
             "[CIT 1.0-1.3](https://inferentialthinking.com/chapters/01/what-is-data-science.html)"
                 
-          "**DISC**{: .label .label-disc } Getting Started with Jupyter Notebooks":
+          "**DISC**{: .label .label-disc } 1. Getting Started with Jupyter Notebooks":
       - date: 2024-1-9
         events:
           
@@ -28,4 +28,5 @@
         events:
           
           "**Lab 0**{: .label .label-lab } **Expressions and Data Types**":
+          "**QUIZ 1**{: .label .label-quiz } **Quiz 1 covers Lectures 1-4**":
 ---
