@@ -9,18 +9,12 @@
                 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> example </span></i></small>":
           "**DISC**{: .label .label-disc } 1. Getting Started with Jupyter Notebooks":
-      - date: 2024-1-9
-        events:
-          
       - date: 2024-1-10
         events:
           "**LEC 2**{: .label .label-lecture } Expressions and Data Types":
             "[BPD 1-6](https://notes.dsc10.com/01-getting_started/tools.html)"
                 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> example </span></i></small>":
-      - date: 2024-1-11
-        events:
-          
       - date: 2024-1-12
         events:
           "**LEC 3**{: .label .label-lecture } Strings, Lists, and Arrays":

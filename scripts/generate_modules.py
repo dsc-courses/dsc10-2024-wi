@@ -90,7 +90,7 @@ def has_content(row):
 
 
 week = df.query("Week == 1")
-week.apply(has_content, axis=1)
+week.iloc[0].loc[["Lecture", "Homework", "Readings", "Lab", "Discussion"]]
 
 
 # for a single week
