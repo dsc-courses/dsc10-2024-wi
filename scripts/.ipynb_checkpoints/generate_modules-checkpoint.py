@@ -22,7 +22,6 @@ def fill_missing_vals(df):
     df["Lab"] = df["Lab"].fillna("").astype(str)
     df["Homework"] = df["Homework"].fillna("").astype(str)
     df["Readings"] = df["Readings"].fillna("").astype(str)
-    df["Links"] = df["Links"].fillna("").astype(str)
     df["Discussion"] = df["Discussion"].fillna("").astype(str)
     return df
 
@@ -30,6 +29,8 @@ def fill_missing_vals(df):
 df = pd.read_csv(CSV_PATH).rename(columns={"#": "LectureNum"}).pipe(fill_missing_vals)
 df
 
+
+# df = df.iloc[:-2]
 
 month_map = {
     "Jan": 1,
