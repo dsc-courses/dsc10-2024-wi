@@ -23,6 +23,7 @@ def fill_missing_vals(df):
     df["Homework"] = df["Homework"].fillna("").astype(str)
     df["Readings"] = df["Readings"].fillna("").astype(str)
     df["Links"] = df["Links"].fillna("").astype(str)
+    df["Keywords"] = df["Keywords"].fillna("").astype(str)
     df["Discussion"] = df["Discussion"].fillna("").astype(str)
     df["Quiz"] = df["Quiz"].fillna("").astype(str)
     return df
@@ -86,19 +87,13 @@ def date_conv(date):
 
 
 def has_content(row):
-    return row.loc[["Lecture", "Homework", "Readings", "Lab", "Discussion"]].any()
-
-
-week = df.query("Week == 1")
-week.iloc[0].loc[["Lecture", "Homework", "Readings", "Lab", "Discussion"]]
+    return row.loc[["Lecture", "Homework", "Lab", "Discussion", "Quiz"]].any() != ''
 
 
 # for a single week
 def write_week(i, dest="../_modules", write=True):
     week = df.query("Week == @i")
-    #week = week[week.apply(has_content, axis=1)] 
-    # I deleted this because it wouldn't run when included. 
-    # Don't really understand what it's meant to do and how to do it correctly.
+    week = week[week.apply(has_content, axis=1)] 
 
     outstr = f"""---
     title: Week {i}
@@ -113,6 +108,7 @@ def write_week(i, dest="../_modules", write=True):
         lab = day.Lab
         readings = day.Readings
         links = day.Links
+        keywords=day.Keywords
         discussion = day.Discussion
         quiz = day.Quiz
 
@@ -139,9 +135,9 @@ def write_week(i, dest="../_modules", write=True):
                 outstr += f"""
             "{combined}"
                 """
-            if True:
+            if keywords:
                 outstr += f"""
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> example </span></i></small>":"""
+          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> {keywords} </span></i></small>":"""
                 
         else:
             if lab:
