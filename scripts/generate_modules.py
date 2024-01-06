@@ -139,6 +139,11 @@ def write_week(i, dest="../_modules", write=True):
                 outstr += f"""
             "{combined}"
                 """
+            if True:
+                outstr += f"""
+          "<small><i><span style='display: inline-block; padding-left: 80px'>
+          <b>Keywords:</b> example </span></i></small>":"""
+                
         else:
             if lab:
                 lab_num, lab_name = lab.split(". ")
