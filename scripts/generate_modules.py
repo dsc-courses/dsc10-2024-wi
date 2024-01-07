@@ -26,6 +26,7 @@ def fill_missing_vals(df):
     df["Keywords"] = df["Keywords"].fillna("").astype(str)
     df["Discussion"] = df["Discussion"].fillna("").astype(str)
     df["Quiz"] = df["Quiz"].fillna("").astype(str)
+    df["Survey"] = df["Survey"].fillna("").astype(str)
     return df
 
 
@@ -111,6 +112,7 @@ def write_week(i, dest="../_modules", write=True):
         keywords=day.Keywords
         discussion = day.Discussion
         quiz = day.Quiz
+        survey = day.Survey
 
         date_formatted = date_conv(date)
 
@@ -133,8 +135,8 @@ def write_week(i, dest="../_modules", write=True):
                     if j < num_readings - 1:
                         combined += ", "
                 outstr += f"""
-            "{combined}"
-                """
+            "{combined}" """
+                
             if keywords:
                 outstr += f"""
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> {keywords} </span></i></small>":"""
@@ -164,6 +166,10 @@ def write_week(i, dest="../_modules", write=True):
         if discussion:
             outstr += f"""
           "**DISC**{{: .label .label-disc }} {discussion.strip()}":"""
+            
+        if survey:
+            outstr += f"""
+          "**SUR**{{: .label .label-survey }} {survey.strip()}":"""
             
         if quiz:
             quiz_num, quiz_description = quiz.split(". ", 1)
