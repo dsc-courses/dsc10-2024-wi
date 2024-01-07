@@ -7,7 +7,7 @@
           "**LEC 1**{: .label .label-lecture } Introduction":
             "[CIT 1.0-1.3](https://inferentialthinking.com/chapters/01/what-is-data-science.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> data science, course structure, policies, syllabus, Little Women demo </span></i></small>":
-          "**DISC**{: .label .label-disc } 1. Getting Started with Jupyter Notebooks":
+          "**DISC**{: .label .label-disc } Getting Started with Jupyter Notebooks":
           "**SUR**{: .label .label-survey } Welcome Survey":
       - date: 2024-1-10
         events:

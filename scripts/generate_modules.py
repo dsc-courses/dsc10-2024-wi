@@ -32,7 +32,6 @@ def fill_missing_vals(df):
 
 
 df = pd.read_csv(CSV_PATH).rename(columns={"#": "LectureNum"}).pipe(fill_missing_vals)
-df
 
 
 month_map = {

@@ -6,7 +6,7 @@
         events:
           
           "**EXAM**{: .label .label-exam } **Midterm Exam**":
-          "**DISC**{: .label .label-disc } 5. Exam Solutions Review":
+          "**DISC**{: .label .label-disc } Exam Solutions Review":
       - date: 2024-2-14
         events:
           "**LEC 15**{: .label .label-lecture } Confidence Intervals, Center, and Spread":

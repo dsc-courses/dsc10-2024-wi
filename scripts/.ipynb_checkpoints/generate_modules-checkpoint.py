@@ -17,6 +17,7 @@ START_FROM_WEEK = 1 #only future weeks!
 
 def fill_missing_vals(df):
     df["Week"] = df["Week"].fillna(method="ffill").astype(int)
+    df["Title"] = df["Title"].fillna(method="ffill").astype(str)
     df["LectureNum"] = df["LectureNum"].fillna(0).astype(int)
     df["Lecture"] = df["Lecture"].fillna("").astype(str)
     df["Lab"] = df["Lab"].fillna("").astype(str)
@@ -31,7 +32,6 @@ def fill_missing_vals(df):
 
 
 df = pd.read_csv(CSV_PATH).rename(columns={"#": "LectureNum"}).pipe(fill_missing_vals)
-df
 
 
 month_map = {
@@ -97,7 +97,7 @@ def write_week(i, dest="../_modules", write=True):
     week = week[week.apply(has_content, axis=1)] 
 
     outstr = f"""---
-    title: Week {i}
+    title: Week {i} – {week["Title"].iloc[0]}
     weekNumber: {i}
     days:"""
 
@@ -174,7 +174,7 @@ def write_week(i, dest="../_modules", write=True):
         if quiz:
             quiz_num, quiz_description = quiz.split(". ", 1)
             outstr += f"""
-          "**QUIZ {quiz_num}**{{: .label .label-quiz }} **{quiz_description.strip()}**":"""
+          "**QUIZ {quiz_num}**{{: .label .label-quiz }} {quiz_description.strip()}":"""
 
     outstr += "\n---"
 

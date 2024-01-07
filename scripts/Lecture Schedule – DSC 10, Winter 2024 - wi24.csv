@@ -1,5 +1,5 @@
 Week,Title,Date,#,Lecture,Readings,Links,Keywords,Homework,Discussion,Lab,Quiz,Survey
-1,Python Basics,Mon 1/8,1,Introduction,CIT 1.0-1.3,https://inferentialthinking.com/chapters/01/what-is-data-science.html,"data science, course structure, policies, syllabus, Little Women demo",,1. Getting Started with Jupyter Notebooks,,,Welcome Survey
+1,Python Basics,Mon 1/8,1,Introduction,CIT 1.0-1.3,https://inferentialthinking.com/chapters/01/what-is-data-science.html,"data science, course structure, policies, syllabus, Little Women demo",,Getting Started with Jupyter Notebooks,,,Welcome Survey
 ,,Tue 1/9,,,,,,,,,,
 ,,Wed 1/10,2,Expressions and Data Types,BPD 1-6,https://notes.dsc10.com/01-getting_started/tools.html,"Jupyter notebooks, expressions, variables, assignment, functions, int, float",,,,,
 ,,Thu 1/11,,,,,,,,,,
@@ -29,7 +29,7 @@ Week,Title,Date,#,Lecture,Readings,Links,Keywords,Homework,Discussion,Lab,Quiz,S
 ,,Thu 2/8,,,,,,"3. DataFrames, Control Flow, and Probability",,,,
 ,,Fri 2/9,14,Bootstrapping and Confidence Intervals,CIT 13.0-13.2,https://inferentialthinking.com/chapters/13/Estimation.html,"inference, bootstrapping, resample, np.percentile, confidence interval",,,,,
 ,,Sat 2/10,,,,,,,,,,
-6,Midterm Exam and the Normal Distribution,Mon 2/12,,Midterm Exam,,,,,5. Exam Solutions Review,,,
+6,Midterm Exam and the Normal Distribution,Mon 2/12,,Midterm Exam,,,,,Exam Solutions Review,,,
 ,,Tue 2/13,,,,,,,,,,
 ,,Wed 2/14,15,"Confidence Intervals, Center, and Spread",CIT 13.3-13.4,https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html,"interpreting CIs, robust vs. sensitive, center, standard deviation, Chebyshev",,,,,
 ,,Thu 2/15,,,,,,Midterm Project,,,,
