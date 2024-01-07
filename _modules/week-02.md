@@ -16,6 +16,7 @@
           "**LEC 5**{: .label .label-lecture } Querying and Grouping":
             "[BPD 10-11](https://notes.dsc10.com/02-data_sets/querying.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> .set_index, Booleans, querying, .shape, &, |, .take, .groupby, aggregation </span></i></small>":
+          "**PRAC 2**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
       - date: 2024-1-20
         events:
           

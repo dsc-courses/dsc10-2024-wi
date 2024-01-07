@@ -28,10 +28,12 @@ def fill_missing_vals(df):
     df["Discussion"] = df["Discussion"].fillna("").astype(str)
     df["Quiz"] = df["Quiz"].fillna("").astype(str)
     df["Survey"] = df["Survey"].fillna("").astype(str)
+    df["Practice"] = df["Practice"].fillna("").astype(str)
     return df
 
 
 df = pd.read_csv(CSV_PATH).rename(columns={"#": "LectureNum"}).pipe(fill_missing_vals)
+df
 
 
 month_map = {
@@ -113,6 +115,7 @@ def write_week(i, dest="../_modules", write=True):
         discussion = day.Discussion
         quiz = day.Quiz
         survey = day.Survey
+        practice = day.Practice
 
         date_formatted = date_conv(date)
 
@@ -170,6 +173,10 @@ def write_week(i, dest="../_modules", write=True):
         if survey:
             outstr += f"""
           "**SUR**{{: .label .label-survey }} {survey.strip()}":"""
+            
+        if practice:
+            outstr += f"""
+          "**PRAC {i}**{{: .label .label-practice }} [Extra Practice Session](http://practice.dsc10.com)":"""
             
         if quiz:
             quiz_num, quiz_description = quiz.split(". ", 1)

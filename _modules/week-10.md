@@ -22,6 +22,7 @@
       - date: 2024-3-15
         events:
           "**LEC 27**{: .label .label-lecture } Review, Conclusion":
+          "**PRAC 10**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
       - date: 2024-3-16
         events:
           

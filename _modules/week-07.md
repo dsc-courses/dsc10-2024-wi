@@ -20,4 +20,5 @@
           "**LEC 18**{: .label .label-lecture } Choosing Sample Sizes, Statistical Models":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html), [11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> standard deviation of 0s and 1s, np.random.multinomial, Robert Swain jury panel </span></i></small>":
+          "**PRAC 7**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
 ---

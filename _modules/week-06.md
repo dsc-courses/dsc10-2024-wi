@@ -21,6 +21,7 @@
           "**LEC 16**{: .label .label-lecture } Standardization and the Normal Distribution":
             "[CIT 14.2-14.3](https://inferentialthinking.com/chapters/14/2/Variability.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> Chebyshev, standard units, normal distribution, CDF, inflection points </span></i></small>":
+          "**PRAC 6**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
       - date: 2024-2-17
         events:
           
