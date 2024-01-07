@@ -175,7 +175,7 @@ def write_week(i, dest="../_modules", write=True):
         if quiz:
             quiz_num, quiz_description = quiz.split(". ", 1)
             outstr += f"""
-          "**QUIZ {quiz_num}**{{: .label .label-quiz }} **{quiz_description.strip()}**":"""
+          "**QUIZ {quiz_num}**{{: .label .label-quiz }} {quiz_description.strip()}":"""
 
     outstr += "\n---"
 

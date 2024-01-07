@@ -15,10 +15,12 @@ nav_order: 1
 
 <!-- Below, you can open "static" versions of each lecture by clicking the ✏️ emojis and watch podcasts by clicking the 🎥 emojis. -->
 
+<!--
 {: .success }
 **This site is currently under construction. This disclaimer will be removed when the site is finalized.**
+-->
 
-[Jump to the current week](#week-10-review){: .btn }
+[Jump to the current week](#week-1-python-basics){: .btn }
 
 
 {% for module in site.modules %}
