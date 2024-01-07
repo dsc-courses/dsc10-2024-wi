@@ -8,7 +8,7 @@
             "[CIT 1.0-1.3](https://inferentialthinking.com/chapters/01/what-is-data-science.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> data science, course structure, policies, syllabus, Little Women demo </span></i></small>":
           "**DISC**{: .label .label-disc } Getting Started with Jupyter Notebooks":
-          "**SUR**{: .label .label-survey } Welcome Survey":
+          "**SUR**{: .label .label-survey } [Welcome Survey](https://forms.gle/4aq8Kp7qxs9SGq3CA)":
       - date: 2024-1-10
         events:
           "**LEC 2**{: .label .label-lecture } Expressions and Data Types":
