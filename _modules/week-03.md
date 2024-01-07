@@ -7,7 +7,7 @@
           "**LEC 6**{: .label .label-lecture } Grouping and Data Visualization":
             "[CIT 7.0-7.1](https://inferentialthinking.com/chapters/07/Visualization.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> .groupby, numerical vs. categorical, scatter plot, line plot, bar chart </span></i></small>":
-          "**QUIZ 1**{: .label .label-quiz } **Quiz 1 covers Lectures 1-4**":
+          "**QUIZ 1**{: .label .label-quiz } Quiz 1 covers Lectures 1-4":
       - date: 2024-1-24
         events:
           "**LEC 7**{: .label .label-lecture } Distributions and Histograms":

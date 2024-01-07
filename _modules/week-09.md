@@ -7,7 +7,7 @@
           "**LEC 22**{: .label .label-lecture } Permutation Testing":
             "[CIT 12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> smoking and birth weight, np.random.permutation, shuffling, Deflategate </span></i></small>":
-          "**QUIZ 5**{: .label .label-quiz } **Quiz 5 covers Lectures 18-20**":
+          "**QUIZ 5**{: .label .label-quiz } Quiz 5 covers Lectures 18-20":
       - date: 2024-3-6
         events:
           "**LEC 23**{: .label .label-lecture } Correlation":

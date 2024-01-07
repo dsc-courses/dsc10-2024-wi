@@ -7,7 +7,7 @@
           "**LEC 12**{: .label .label-lecture } Simulation":
             "[CIT 9.3-9.4](https://inferentialthinking.com/chapters/09/3/Simulation.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> np.random.choice, replacement, np.count_nonzero, coin flipping, Monty Hall </span></i></small>":
-          "**QUIZ 3**{: .label .label-quiz } **Quiz 3 covers Lectures 8-11**":
+          "**QUIZ 3**{: .label .label-quiz } Quiz 3 covers Lectures 8-11":
       - date: 2024-2-7
         events:
           "**LEC 13**{: .label .label-lecture } Distributions and Sampling":

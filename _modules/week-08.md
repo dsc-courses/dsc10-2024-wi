@@ -7,7 +7,7 @@
           "**LEC 19**{: .label .label-lecture } Hypothesis Testing":
             "[CIT 11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> null and alternative hypotheses, test statistic, fair or unfair coin </span></i></small>":
-          "**QUIZ 4**{: .label .label-quiz } **Quiz 4 covers Lectures 13-17**":
+          "**QUIZ 4**{: .label .label-quiz } Quiz 4 covers Lectures 13-17":
       - date: 2024-2-27
         events:
           
