@@ -1,5 +1,5 @@
 ---
-    title: Week 9
+    title: Week 9 – Prediction
     weekNumber: 9
     days:
       - date: 2024-3-4

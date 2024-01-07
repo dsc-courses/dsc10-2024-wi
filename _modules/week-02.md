@@ -1,5 +1,5 @@
 ---
-    title: Week 2
+    title: Week 2 – DataFrames
     weekNumber: 2
     days:
       - date: 2024-1-15

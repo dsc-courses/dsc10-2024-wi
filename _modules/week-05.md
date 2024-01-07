@@ -1,5 +1,5 @@
 ---
-    title: Week 5
+    title: Week 5 – Simulation, Sampling, and Confidence Intervals
     weekNumber: 5
     days:
       - date: 2024-2-5

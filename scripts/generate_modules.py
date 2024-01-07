@@ -17,6 +17,7 @@ START_FROM_WEEK = 1 #only future weeks!
 
 def fill_missing_vals(df):
     df["Week"] = df["Week"].fillna(method="ffill").astype(int)
+    df["Title"] = df["Title"].fillna(method="ffill").astype(str)
     df["LectureNum"] = df["LectureNum"].fillna(0).astype(int)
     df["Lecture"] = df["Lecture"].fillna("").astype(str)
     df["Lab"] = df["Lab"].fillna("").astype(str)
@@ -97,7 +98,7 @@ def write_week(i, dest="../_modules", write=True):
     week = week[week.apply(has_content, axis=1)] 
 
     outstr = f"""---
-    title: Week {i}
+    title: Week {i} – {week["Tite"]}
     weekNumber: {i}
     days:"""
 

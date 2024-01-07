@@ -1,5 +1,5 @@
 ---
-    title: Week 4
+    title: Week 4 – Control Flow and Probability
     weekNumber: 4
     days:
       - date: 2024-1-29

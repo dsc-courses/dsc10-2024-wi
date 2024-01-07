@@ -1,5 +1,5 @@
 ---
-    title: Week 3
+    title: Week 3 – Data Visualization and Functions
     weekNumber: 3
     days:
       - date: 2024-1-22

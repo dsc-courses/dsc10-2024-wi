@@ -1,5 +1,5 @@
 ---
-    title: Week 1
+    title: Week 1 – Python Basics
     weekNumber: 1
     days:
       - date: 2024-1-8
