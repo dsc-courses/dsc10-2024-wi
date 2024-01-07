@@ -26,7 +26,7 @@
           "**LEC 11**{: .label .label-lecture } Probability":
             "[CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> event, conditional prob., multiplication and addition rules, independence </span></i></small>":
-          "**PRAC 4**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
+          "**PRAC**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
       - date: 2024-2-3
         events:
           

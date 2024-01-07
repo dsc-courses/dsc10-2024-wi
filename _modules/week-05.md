@@ -22,5 +22,5 @@
           "**LEC 14**{: .label .label-lecture } Bootstrapping and Confidence Intervals":
             "[CIT 13.0-13.2](https://inferentialthinking.com/chapters/13/Estimation.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> inference, bootstrapping, resample, np.percentile, confidence interval </span></i></small>":
-          "**PRAC 5**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
+          "**PRAC**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
 ---

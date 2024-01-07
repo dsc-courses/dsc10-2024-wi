@@ -22,5 +22,5 @@
           "**LEC 24**{: .label .label-lecture } Regression and Least Squares":
             "[CIT 15.2-15.4](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> regression line in original units, outliers, errors, RMSE, best fit line, least squares </span></i></small>":
-          "**PRAC 9**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
+          "**PRAC**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
 ---

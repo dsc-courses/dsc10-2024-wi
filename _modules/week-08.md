@@ -26,7 +26,7 @@
           "**LEC 21**{: .label .label-lecture } TVD, Hypothesis Testing, and Permutation Testing":
             "[CIT 12.0-12.1](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> confidence intervals for hypothesis testing, body temperature, smoking and birth weight </span></i></small>":
-          "**PRAC 8**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
+          "**PRAC**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
       - date: 2024-3-2
         events:
           

@@ -19,7 +19,7 @@
           "**LEC 3**{: .label .label-lecture } Strings, Lists, and Arrays":
             "[BPD 7-8](https://notes.dsc10.com/02-data_sets/arrays.html), [CIT 14.1](https://inferentialthinking.com/chapters/14/1/Properties_of_the_Mean.html#)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> string methods, mean, median, lists, arrays, array arithmetic </span></i></small>":
-          "**PRAC 1**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
+          "**PRAC**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
       - date: 2024-1-13
         events:
           
