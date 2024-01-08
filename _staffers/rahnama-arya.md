@@ -1,6 +1,6 @@
 ---
 name: Arya Rahnama
-role: Tutor
+role: TA
 pronouns: he/him
 email: 
 photo: assets/staff-images/wi24/rahnama-arya.jpg
