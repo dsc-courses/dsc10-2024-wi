@@ -12,7 +12,7 @@ import numpy as np
 CSV_PATH = "Lecture Schedule – DSC 10, Winter 2024 - wi24.csv"
 DATE_FORMAT = "DATE MONTH/DAY"
 YEAR = 2024
-START_FROM_WEEK = 1 #only future weeks!
+START_FROM_WEEK = 2 #only future weeks!
 
 
 def fill_missing_vals(df):
@@ -176,7 +176,7 @@ def write_week(i, dest="../_modules", write=True):
             
         if practice:
             outstr += f"""
-          "**PRAC {i}**{{: .label .label-practice }} [Extra Practice Session](http://practice.dsc10.com)":"""
+          "**PRAC**{{: .label .label-practice }} [Extra Practice Session](http://practice.dsc10.com)":"""
             
         if quiz:
             quiz_num, quiz_description = quiz.split(". ", 1)
@@ -200,5 +200,7 @@ def write_week(i, dest="../_modules", write=True):
 
 for i in range(START_FROM_WEEK, 11):
     write_week(i)
+
+
 
 
