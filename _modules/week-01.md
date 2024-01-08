@@ -4,7 +4,7 @@
     days:
       - date: 2024-1-8
         events:
-          "**LEC 1**{: .label .label-lecture } Introduction":
+          "**LEC 1**{: .label .label-lecture } [Introduction](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec01/lec01.ipynb) [✏️](resources/lectures/lec01/lec01.html)":
             "[CIT 1.0-1.3](https://inferentialthinking.com/chapters/01/what-is-data-science.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> data science, course structure, policies, syllabus, Little Women demo </span></i></small>":
           "**DISC**{: .label .label-disc } Getting Started with Jupyter Notebooks":
