@@ -11,7 +11,7 @@
           "**SUR**{: .label .label-survey } [Welcome Survey](https://forms.gle/4aq8Kp7qxs9SGq3CA)":
       - date: 2024-1-10
         events:
-          "**LEC 2**{: .label .label-lecture } [Expressions and Data Types](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec02/lec02.ipynb) [:pencil2:](resources/lectures/lec02/lec02.html)":
+          "**LEC 2**{: .label .label-lecture } [Expressions and Data Types](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec02/lec02.ipynb) [✏️](resources/lectures/lec02/lec02.html)":
             "[BPD 1-6](https://notes.dsc10.com/01-getting_started/tools.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> Jupyter notebooks, expressions, variables, assignment, functions, int, float </span></i></small>":
       - date: 2024-1-12
