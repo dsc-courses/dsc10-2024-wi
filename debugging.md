@@ -50,7 +50,7 @@ While you might see the correct answer displayed as the result of the cell, chan
 
 There are two solutions:
 
-1. In [this public GitHub repository](https://github.com/dsc-courses/dsc10-2023-fa), you'll find the "original" versions of all assignments we released this quarter. You can look here and manually add back any necessary code or text that you accidentally deleted.
+1. In [this public GitHub repository](https://github.com/dsc-courses/dsc10-2024-wi), you'll find the "original" versions of all assignments we released this quarter. You can look here and manually add back any necessary code or text that you accidentally deleted.
 
 2. Suppose you're working on Lab 5. One solution is go directly to DataHub and rename your `lab05` folder to something else, like `lab05-old`. Then, click the Lab 5 link on the course website again, and it'll bring you to a brand-new version of Lab 5. Then, you can copy your work from your old Lab 5 to this new one, which should have everything in it.
 
@@ -64,7 +64,7 @@ The most common way this happens is if you (unknowingly) download your notebook 
 
 1. Make sure you've restarted your kernel and run all cells in your notebook. Save your notebook.
 1. Click the "JupyterHub" button in the top left corner of the page.
-1. In the file explorer that appears, click `dsc10-2023-fa`, then navigate to the folder that contains the file you're trying to download. If you're working on Homework 3, for instance, you'll click `homeworks` and then `hw03`.
+1. In the file explorer that appears, click `dsc10-2024-wi`, then navigate to the folder that contains the file you're trying to download. If you're working on Homework 3, for instance, you'll click `homeworks` and then `hw03`.
 1. Click the square checkbox to the left of your assignment notebook (e.g. `hw03.ipynb`). Click "Shutdown" at the top. Then, click the checkbox again and click "Download". This should download your notebook as a `.ipynb` file.
 
 ## Specific Errors
@@ -128,7 +128,7 @@ This is usually what's called a "merge conflict", which means that DataHub wasn'
 
     <center><img src="../assets/images/terminal.png" width="30%"></center>
 
-3. In the terminal, type `cd dsc10-2023-fa`, then hit the enter key to run it. The command will not display anything.
+3. In the terminal, type `cd dsc10-2024-wi`, then hit the enter key to run it. The command will not display anything.
 
 4. Still in the terminal, type `git stash`, at which point your terminal window should look like the one below. Then, hit enter to run the command. You should see some output.
 
@@ -150,4 +150,4 @@ Sometimes DataHub does have availability issues. Usually it is back up and runni
 
 ### What if I don't have access to DataHub and I still want to access DSC 10 materials?
 
-We welcome the general public to use our materials. If you're not enrolled in the class, you can access all lectures and assignments in our [public GitHub repository](https://github.com/dsc-courses/dsc10-2023-fa).
+We welcome the general public to use our materials. If you're not enrolled in the class, you can access all lectures and assignments in our [public GitHub repository](https://github.com/dsc-courses/dsc10-2024-wi). In order to run Jupyter notebooks locally on your own computer, we recommend using [Anaconda](https://www.anaconda.com/).
