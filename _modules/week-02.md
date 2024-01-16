@@ -9,7 +9,7 @@
       - date: 2024-1-17
         events:
           "**LEC 4**{: .label .label-lecture } Arrays and DataFrames":
-            "[BPD 9-10](https://notes.dsc10.com/02-data_sets/accessing.html)" 
+            "[BPD 9](https://notes.dsc10.com/02-data_sets/accessing.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> array methods, np.arange, .read_csv, .get, .assign, .sort_values, .iloc, .loc, index </span></i></small>":
       - date: 2024-1-19
         events:
