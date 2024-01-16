@@ -8,7 +8,7 @@
           "No Lecture (MLK Day)":
       - date: 2024-1-17
         events:
-          "**LEC 4**{: .label .label-lecture } [Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-2i&subPath=lectures/lec04/lec04.ipynb) [✏️](resources/lectures/lec04/lec04.html)":
+          "**LEC 4**{: .label .label-lecture } [Arrays and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec04/lec04.ipynb) [✏️](resources/lectures/lec04/lec04.html)":
             "[BPD 9](https://notes.dsc10.com/02-data_sets/accessing.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> array methods, np.arange, .read_csv, .get, .assign, .sort_values, .iloc, .loc, index </span></i></small>":
       - date: 2024-1-19
