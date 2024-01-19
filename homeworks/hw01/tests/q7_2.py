@@ -1,0 +1,10 @@
+test = {   'name': 'q7_2',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': ">>> 'total_gross_millions' in disney_movies.columns and 'adjusted_gross_millions' in disney_movies.columns\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': '>>> len(disney_movies.columns) == 6\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': ">>> int(disney_movies.get('total_gross_millions').iloc[0] * 10 ** 3 % 10 ** 2) == 25 # Try again!\nTrue", 'hidden': False, 'locked': False},
+                                   {'code': ">>> int(disney_movies.get('adjusted_gross_millions').iloc[0] * 10 ** 3 % 10 ** 2) == 53 # Try again!\nTrue", 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}

@@ -1,0 +1,11 @@
+test = {   'name': 'q6_5',
+    'points': None,
+    'suites': [   {   'cases': [   {'code': '>>> isinstance(male_count, np.ndarray) and isinstance(female_count, np.ndarray)\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> int(male_count[2] / 10 % 10 ** 3) == 498  # Try again!\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> int(male_count[5] / 10 % 10 ** 3) == 178  # Try again!\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> int(female_count[2] / 10 % 10 ** 3) == 101  # Try again!\nTrue', 'hidden': False, 'locked': False},
+                                   {'code': '>>> int(female_count[4] / 10 % 10 ** 3) == 110  # Try again!\nTrue', 'hidden': False, 'locked': False}],
+                      'scored': True,
+                      'setup': '',
+                      'teardown': '',
+                      'type': 'doctest'}]}
