@@ -11,7 +11,7 @@
       - date: 2024-1-30
         events:
           
-          "**LAB 2**{: .label .label-lab } **Data Visualizations and Functions**":
+          "**LAB 2**{: .label .label-lab } [**Data Visualizations and Functions**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=labs/lab02/lab02.ipynb)":
       - date: 2024-1-31
         events:
           "**LEC 10**{: .label .label-lecture } Conditional Statements and Iteration":
