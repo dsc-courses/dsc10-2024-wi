@@ -10,7 +10,7 @@
           "**QUIZ 1**{: .label .label-quiz } Quiz 1 covers Lectures 1-4":
       - date: 2024-1-24
         events:
-          "**LEC 7**{: .label .label-lecture } Distributions and Histograms":
+          "**LEC 7**{: .label .label-lecture } [Distributions and Histograms](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec07/lec07.ipynb) [✏️](resources/lectures/lec07/lec07.html)":
             "[CIT 7.2-7.3](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> distributions, density histograms, binning, total area, overlaid plots </span></i></small>":
       - date: 2024-1-25
