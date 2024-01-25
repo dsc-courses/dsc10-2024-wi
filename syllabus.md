@@ -131,7 +131,7 @@ Your primary motivation when interacting with course staff should be
 
 First and foremost, you will need access to a computer (or tablet with a
 keyboard) and a stable internet connection to participate in this course. UCSD
-has a [Laptop Lending Program](https://basicneeds.ucsd.edu/forms/lyft-program/index.html) which may be helpful, but you should also contact
+has a [Laptop Lending Program](https://basicneeds.ucsd.edu/forms/library-laptop-lending-program/index.html) which may be helpful, but you should also contact
 us if you have any concerns about access to technology. Most students bring a computer to lecture, and a computer or tablet will be necessary to attend the extra practice sessions.
 
 All course content will be linked from this website, but there are a few
@@ -154,7 +154,7 @@ Make sure you can access all three sites ASAP. It's a good idea to bookmark
 them, too (though they're all linked at the top of this website).
 
 {: .warning }
-**Note that we will not be using Canvas this quarter. Please do not contact the staff through Canvas – we won't be able to read it!**
+**Note that we will not be using Canvas this quarter. You won't see this course on your Canvas at all. In addition, please do not contact the staff through Canvas – we won't be able to read it!**
 
 ### Welcome Survey
 

@@ -13,14 +13,13 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-<!-- Below, you can open "static" versions of each lecture by clicking the ✏️ emojis and watch podcasts by clicking the 🎥 emojis. -->
-
-
+<!--
 {: .success }
 **Tip: When working on assignments, use Ctrl+F on this page to search for a keyword and quickly find the relevant lecture. Click the ✏️ emoji to open a static version of the lecture for reference, which is much faster than loading it on DataHub. Also, make sure to use the [reference sheet](https://drive.google.com/file/d/1ky0Np67HS2O4LO913P-ing97SJG0j27n/view?usp=sharing)!**
+-->
 
 
-[Jump to the current week](#week-2-dataframes){: .btn }
+[Jump to the current week](#week-3-data-visualization-and-functions){: .btn }
 
 
 {% for module in site.modules %}
