@@ -15,7 +15,7 @@
       - date: 2024-2-15
         events:
           
-          "**PROJ**{: .label .label-proj } [**Midterm Project**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=projects/midterm-project/midterm-project.ipynb)":
+          "**PROJ**{: .label .label-proj } **Midterm Project**":
       - date: 2024-2-16
         events:
           "**LEC 16**{: .label .label-lecture } Standardization and the Normal Distribution":
