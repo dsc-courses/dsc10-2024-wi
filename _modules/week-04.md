@@ -23,7 +23,7 @@
           "**HW 2**{: .label .label-hw } [**DataFrames, Data Visualization, and Functions**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=homeworks/hw02/hw02.ipynb)":
       - date: 2024-2-2
         events:
-          "**LEC 11**{: .label .label-lecture } [Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec11/lec11-blank.ipynb) ([blank PDF](resources/lectures/lec11/lec11-blank.pdf))":
+          "**LEC 11**{: .label .label-lecture } [Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec11/lec11.ipynb) ([blank](resources/lectures/lec11/lec11-blank.pdf), [9AM](resources/lectures/lec11/lec11_9am.pdf), [10AM](resources/lectures/lec11/lec11_10am.pdf), [11AM](resources/lectures/lec11/lec11_11am.pdf))":
             "[CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> event, conditional prob., multiplication and addition rules, independence </span></i></small>":
           "**PRAC**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":

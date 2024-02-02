@@ -19,7 +19,7 @@ nav_order: 1
 -->
 
 
-[Jump to the current week](#week-4-control-flow-and-probability){: .btn }
+[Jump to the current week](#week-5-simulation-sampling-and-confidence-intervals){: .btn }
 
 
 {% for module in site.modules %}
