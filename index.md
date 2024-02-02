@@ -19,7 +19,7 @@ nav_order: 1
 -->
 
 
-[Jump to the current week](#week-3-data-visualization-and-functions){: .btn }
+[Jump to the current week](#week-4-probability-and-simulation){: .btn }
 
 
 {% for module in site.modules %}
