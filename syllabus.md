@@ -370,7 +370,7 @@ We will assess your knowledge of course material frequently through quizzes and 
 
 This class has one Midterm Exam and one Final Exam:
 - Midterm Exam: Monday, February 12, **during your registered lecture slot**
-- Final Exam: Saturday, March 9, 7-10PM, location TBD
+- Final Exam: Saturday, March 16, 7-10PM, location TBD
 
 Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **in-person and on-paper**.
 
