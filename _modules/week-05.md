@@ -4,7 +4,7 @@
     days:
       - date: 2024-2-5
         events:
-          "**LEC 12**{: .label .label-lecture } Simulation":
+          "**LEC 12**{: .label .label-lecture } [Simulation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec12/lec12.ipynb) [✏️](resources/lectures/lec12/lec12.html)":
             "[CIT 9.3-9.4](https://inferentialthinking.com/chapters/09/3/Simulation.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> np.random.choice, replacement, np.count_nonzero, coin flipping, Monty Hall </span></i></small>":
           "**QUIZ 3**{: .label .label-quiz } Quiz 3 covers Lectures 8-11":
