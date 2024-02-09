@@ -19,7 +19,7 @@
           "**HW 3**{: .label .label-hw } [**DataFrames, Control Flow, and Probability**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=homeworks/hw03/hw03.ipynb)":
       - date: 2024-2-9
         events:
-          "**LEC 14**{: .label .label-lecture } Bootstrapping and Confidence Intervals":
+          "**LEC 14**{: .label .label-lecture } [Bootstrapping and Confidence Intervals](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec14/lec14.ipynb) [✏️](resources/lectures/lec14/lec14.html)":
             "[CIT 13.0-13.2](https://inferentialthinking.com/chapters/13/Estimation.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> inference, bootstrapping, resample, np.percentile, confidence interval </span></i></small>":
           "**PRAC**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
