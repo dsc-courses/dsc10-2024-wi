@@ -25,5 +25,5 @@
       - date: 2024-2-17
         events:
           
-          "**LAB 4**{: .label .label-lab } [**Simulation, Sampling, & Bootstrapping**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=labs/lab00/lab04.ipynb)":
+          "**LAB 4**{: .label .label-lab } [**Simulation, Sampling, & Bootstrapping**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=labs/lab04/lab04.ipynb)":
 ---
