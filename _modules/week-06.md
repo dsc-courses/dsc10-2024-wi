@@ -9,7 +9,7 @@
           "**DISC**{: .label .label-disc } Exam Solutions Review":
       - date: 2024-2-14
         events:
-          "**LEC 15**{: .label .label-lecture } Confidence Intervals, Center, and Spread":
+          "**LEC 15**{: .label .label-lecture } [Confidence Intervals, Center, and Spread](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec15/lec15.ipynb) [✏️](resources/lectures/lec15/lec15.html)":
             "[CIT 13.3-13.4](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> interpreting CIs, robust vs. sensitive, center, standard deviation, Chebyshev </span></i></small>":
       - date: 2024-2-15
@@ -18,7 +18,7 @@
           "**PROJ**{: .label .label-proj } [**Midterm Project**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=projects/midterm-project/midterm-project.ipynb)":
       - date: 2024-2-16
         events:
-          "**LEC 16**{: .label .label-lecture } [Standardization and the Normal Distribution](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec15/lec15.ipynb) [✏️](resources/lectures/lec15/lec15.html)":
+          "**LEC 16**{: .label .label-lecture } Standardization and the Normal Distribution":
             "[CIT 14.2-14.3](https://inferentialthinking.com/chapters/14/2/Variability.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> Chebyshev, standard units, normal distribution, CDF, inflection points </span></i></small>":
           "**PRAC**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
