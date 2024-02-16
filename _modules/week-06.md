@@ -18,7 +18,7 @@
           "**PROJ**{: .label .label-proj } [**Midterm Project**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=projects/midterm-project/midterm-project.ipynb)":
       - date: 2024-2-16
         events:
-          "**LEC 16**{: .label .label-lecture } Standardization and the Normal Distribution":
+          "**LEC 16**{: .label .label-lecture } [Standardization and the Normal Distribution](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec16/lec16.ipynb) [✏️](resources/lectures/lec16/lec16.html)":
             "[CIT 14.2-14.3](https://inferentialthinking.com/chapters/14/2/Variability.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> Chebyshev, standard units, normal distribution, CDF, inflection points </span></i></small>":
           "**PRAC**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
