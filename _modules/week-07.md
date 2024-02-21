@@ -10,7 +10,7 @@
         events:
           "**LEC 17**{: .label .label-lecture } The Central Limit Theorem":
             "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)" 
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> interpreting CIs, robust vs. sensitive, center, standard deviation, Chebyshev </span></i></small>":
+          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> distribution of the sample mean, square root law, CLT-based confidence interval </span></i></small>":
       - date: 2024-2-22
         events:
           

@@ -19,7 +19,7 @@ nav_order: 1
 -->
 
 
-[Jump to the current week](#week-5-simulation-sampling-and-confidence-intervals){: .btn }
+[Jump to the current week](#week-7-central-limit-theorem){: .btn }
 
 
 {% for module in site.modules %}
