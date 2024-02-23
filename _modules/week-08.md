@@ -20,7 +20,7 @@
       - date: 2024-2-29
         events:
           
-          "**HW 5**{: .label .label-hw } **The Normal Distribution and the Central Limit Theorem**":
+          "**HW 5**{: .label .label-hw } [**The Normal Distribution and the Central Limit Theorem**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=homeworks/hw05/hw05.ipynb)":
       - date: 2024-3-1
         events:
           "**LEC 21**{: .label .label-lecture } TVD, Hypothesis Testing, and Permutation Testing":
