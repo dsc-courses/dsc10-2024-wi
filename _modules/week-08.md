@@ -4,7 +4,7 @@
     days:
       - date: 2024-2-26
         events:
-          "**LEC 19**{: .label .label-lecture } Hypothesis Testing":
+          "**LEC 19**{: .label .label-lecture } [Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec19/lec19.ipynb) [✏️](resources/lectures/lec19/lec19.html)":
             "[CIT 11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> null and alternative hypotheses, test statistic, fair or unfair coin </span></i></small>":
           "**QUIZ 4**{: .label .label-quiz } Quiz 4 covers Lectures 13-17":
