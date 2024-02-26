@@ -19,7 +19,7 @@ nav_order: 1
 -->
 
 
-[Jump to the current week](#week-7-central-limit-theorem){: .btn }
+[Jump to the current week](#week-8-hypothesis-and-permutation-testing){: .btn }
 
 
 {% for module in site.modules %}
