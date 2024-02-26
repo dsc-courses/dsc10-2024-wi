@@ -11,7 +11,7 @@
       - date: 2024-3-12
         events:
           
-          "**PROJ**{: .label .label-proj } [**Final Project**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=projects/final-project/FinalProject.ipynb)":
+          "**PROJ**{: .label .label-proj } **Final Project**":
       - date: 2024-3-13
         events:
           "**LEC 26**{: .label .label-lecture } Review":
