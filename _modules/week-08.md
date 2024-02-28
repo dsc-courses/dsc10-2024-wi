@@ -14,7 +14,7 @@
           "**LAB 5**{: .label .label-lab } [**Variability and the Normal Distribution**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=labs/lab05/lab05.ipynb)":
       - date: 2024-2-28
         events:
-          "**LEC 20**{: .label .label-lecture } [Hypothesis Testing and Total Variation Distance](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec20/lec20.ipynb)":
+          "**LEC 20**{: .label .label-lecture } [Hypothesis Testing and Total Variation Distance](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec20/lec20.ipynb) [✏️](resources/lectures/lec20/lec20.html)":
             "[CIT 11.2](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> fair or unfair coin, p-value, midterm exam scores, Alameda County jury, TVD </span></i></small>":
       - date: 2024-2-29
