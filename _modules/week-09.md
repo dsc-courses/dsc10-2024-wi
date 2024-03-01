@@ -16,7 +16,7 @@
       - date: 2024-3-7
         events:
           
-          "**HW 6**{: .label .label-hw } **Hypothesis Testing and Permutation Testing**":
+          "**HW 6**{: .label .label-hw } [**Hypothesis Testing and Permutation Testing**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=homeworks/hw06/hw06.ipynb)":
       - date: 2024-3-8
         events:
           "**LEC 24**{: .label .label-lecture } Regression and Least Squares":
