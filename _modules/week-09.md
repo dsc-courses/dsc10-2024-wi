@@ -4,7 +4,7 @@
     days:
       - date: 2024-3-4
         events:
-          "**LEC 22**{: .label .label-lecture } Permutation Testing":
+          "**LEC 22**{: .label .label-lecture } [Permutation Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec22/lec22.ipynb) [✏️](resources/lectures/lec22/lec22.html)":
             "[CIT 12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> smoking and birth weight, np.random.permutation, shuffling, Deflategate </span></i></small>":
           "**QUIZ 5**{: .label .label-quiz } Quiz 5 covers Lectures 18-21 (excluding Permutation Testing)":
