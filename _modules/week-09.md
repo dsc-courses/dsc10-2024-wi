@@ -19,7 +19,7 @@
           "**HW 6**{: .label .label-hw } [**Hypothesis Testing and Permutation Testing**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=homeworks/hw06/hw06.ipynb)":
       - date: 2024-3-8
         events:
-          "**LEC 24**{: .label .label-lecture } Regression and Least Squares  ⚠️ No live lecture! [Watch recording. 🎥](https://youtu.be/HdUloteI5Ss)":
+          "**LEC 24**{: .label .label-lecture } [Regression and Least Squares](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec24/lec24.ipynb) [✏️](resources/lectures/lec24/lec24.html)  ⚠️ No live lecture! [Watch recording. 🎥](https://youtu.be/HdUloteI5Ss)":
             "[CIT 15.2-15.4](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> regression line in original units, outliers, errors, RMSE, best fit line, least squares </span></i></small>":
           "**PRAC**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
