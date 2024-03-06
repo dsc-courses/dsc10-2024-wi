@@ -10,7 +10,7 @@
           "**QUIZ 5**{: .label .label-quiz } Quiz 5 covers Lectures 18-21 (excluding Permutation Testing)":
       - date: 2024-3-6
         events:
-          "**LEC 23**{: .label .label-lecture } Correlation":
+          "**LEC 23**{: .label .label-lecture } [Correlation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec23/lec23.ipynb) [✏️](resources/lectures/lec23/lec23.html)":
             "[CIT 15.0-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> association, correlation coefficient (r), predicting heights, regression line in standard units </span></i></small>":
       - date: 2024-3-7
