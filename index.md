@@ -20,7 +20,7 @@ nav_order: 1
 
 
 {: .success }
-**Announcement: Janine is out of town on Friday 3/8 and there will be no live lecture that day. Instead, you will watch a recording of the lecture asynchronously. This message will be updated when that recording is available.**
+**Announcement: Janine is out of town on Friday 3/8 and there will be no live lecture that day. Instead, you will watch a recording of the lecture asynchronously, which you can [find here](https://youtu.be/HdUloteI5Ss). Please don't come to class on Friday!**
 
 
 
