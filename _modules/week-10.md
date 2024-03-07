@@ -22,7 +22,7 @@
       - date: 2024-3-15
         events:
           "**LEC 27**{: .label .label-lecture } Review, Conclusion":
-          "**PRAC**{: .label .label-practice } Collaborative Study Session (5-8PM in Solis 104)":
+          "**STUDY**{: .label .label-practice } Collaborative Study Session (5-8PM in Solis 104)":
       - date: 2024-3-16
         events:
           
