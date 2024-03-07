@@ -25,7 +25,7 @@
         events:
           "**LEC 21**{: .label .label-lecture } [TVD, Hypothesis Testing, and Permutation Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec21/lec21.ipynb) [✏️](resources/lectures/lec21/lec21.html)":
             "[CIT 12.0-12.1](https://inferentialthinking.com/chapters/12/Comparing_Two_Samples.html)" 
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> confidence intervals for hypothesis testing, body temperature, smoking and birth weight </span></i></small>":
+          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> confidence intervals for hypothesis testing, body temperature, smoking/babies </span></i></small>":
           "**PRAC**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
       - date: 2024-3-2
         events:

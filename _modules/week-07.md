@@ -10,7 +10,7 @@
         events:
           "**LEC 17**{: .label .label-lecture } [The Central Limit Theorem](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec17/lec17.ipynb) [✏️](resources/lectures/lec17/lec17.html)":
             "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)" 
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> distribution of the sample mean, square root law, CLT-based confidence interval </span></i></small>":
+          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> distribution of the sample mean, square root law, CLT-based CIs </span></i></small>":
       - date: 2024-2-22
         events:
           
@@ -19,6 +19,6 @@
         events:
           "**LEC 18**{: .label .label-lecture } [Choosing Sample Sizes, Statistical Models](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec18/lec18.ipynb) [✏️](resources/lectures/lec18/lec18.html)":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html), [11.1](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html)" 
-          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> standard deviation of 0s and 1s, np.random.multinomial, Robert Swain jury panel </span></i></small>":
+          "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> standard deviation of 0s and 1s, np.random.multinomial, Robert Swain jury </span></i></small>":
           "**PRAC**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
 ---

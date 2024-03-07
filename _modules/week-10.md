@@ -22,10 +22,10 @@
       - date: 2024-3-15
         events:
           "**LEC 27**{: .label .label-lecture } Review, Conclusion":
-          "**PRAC**{: .label .label-practice } [Extra Practice Session](http://practice.dsc10.com)":
+          "**PRAC**{: .label .label-practice } Collaborative Study Session (5-8PM in Solis 104)":
       - date: 2024-3-16
         events:
           
           "**EXAM**{: .label .label-exam } **Final Exam (7-10PM)**":
-          "**SUR**{: .label .label-survey } SETs and End-of-Quarter Survey (due 8AM)":
+          "**SUR**{: .label .label-survey } [SETs](https://academicaffairs.ucsd.edu/Modules/Evals/) and [End-of-Quarter Survey](https://forms.gle/yFoqjCRaBoyFC6nu8) (due 8AM)":
 ---
