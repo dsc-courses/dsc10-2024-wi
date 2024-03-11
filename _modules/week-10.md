@@ -4,7 +4,7 @@
     days:
       - date: 2024-3-11
         events:
-          "**LEC 25**{: .label .label-lecture } Residuals and Inference":
+          "**LEC 25**{: .label .label-lecture } [Residuals and Inference](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2024-wi&subPath=lectures/lec25/lec25.ipynb) [✏️](resources/lectures/lec25/lec25.html)":
             "[CIT 15.5-16.3](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html)" 
           "<small><i><span style='display: inline-block; padding-left: 80px'><b>Keywords:</b> residuals, residual plots, patterns, datasaurus dozen, prediction intervals </span></i></small>":
           "**QUIZ 6**{: .label .label-quiz } Quiz 6 covers Lectures 21-24":
