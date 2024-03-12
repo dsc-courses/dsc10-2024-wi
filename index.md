@@ -20,11 +20,11 @@ nav_order: 1
 
 
 {: .success }
-**Announcement: Janine is out of town on Friday 3/8 and there will be no live lecture that day. Instead, you will watch a recording of the lecture asynchronously, which you can [find here](https://youtu.be/HdUloteI5Ss). Please don't come to class on Friday!**
+**On Wednesday, we'll be reviewing questions from [last quarter's final exam](https://practice.dsc10.com/fa23-final/index.html). Try out the questions before coming to class!**
 
 
 
-[Jump to the current week](#week-9-prediction){: .btn }
+[Jump to the current week](#week-10-review){: .btn }
 
 
 {% for module in site.modules %}
