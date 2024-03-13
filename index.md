@@ -20,7 +20,7 @@ nav_order: 1
 
 
 {: .success }
-**On Wednesday, we'll be reviewing questions from [last quarter's final exam](https://practice.dsc10.com/fa23-final/index.html). Try out the questions before coming to class!**
+The Final Exam is **this Saturday 3/16 from 7-10PM** in Catalyst 0125 near Plant Power. Join us for a collaborative study session on **Friday 3/15 from 5-8PM** in Solis 104. <\br><\br>If at least 75% of the class fills out both [SETs](https://academicaffairs.ucsd.edu/Modules/Evals/) and the internal [End-of-Quarter Survey](https://forms.gle/yFoqjCRaBoyFC6nu8), then the entire class will have **1% of extra credit added to their overall grade**. We value your feedback!
 
 
 
